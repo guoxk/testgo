@@ -8,7 +8,7 @@ package internal
 import "fmt"
 
 const (
-	AA = 1
+	AA = 2
 )
 
 type ATest struct {
